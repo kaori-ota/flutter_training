@@ -4,7 +4,7 @@ import 'package:flutterapp/pages/homestack/company/company_page.dart';
 
 class HomeStack extends StatelessWidget {
   const HomeStack({Key key}) : super(key: key);
-
+ 
   @override
   Widget build(BuildContext context) {
     return Navigator(
